@@ -15,4 +15,4 @@ node server.js
 ```
 
 ### 查看效果
-地址栏输入：localhost
+地址栏输入：localhost进行查看
