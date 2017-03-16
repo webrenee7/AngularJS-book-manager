@@ -9,6 +9,10 @@ Bootstrap+ejs+jquery+angular+angular-resource+express
 npm install
 ```
 
+### 运行
 ```bash
 node server.js
 ```
+
+### 查看效果
+地址栏输入：localhost
