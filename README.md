@@ -4,8 +4,11 @@
 ## 技术栈
 Bootstrap+ejs+jquery+angular+angular-resource+express
 ## 使用方法
-# 安装
+### 安装
 ```bash
 npm install
 ```
 
+```bash
+node server.js
+```
